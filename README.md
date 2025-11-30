@@ -2,6 +2,13 @@
 
 Sistema web simples para gerenciar reservas de produtos da empresa Batlló com autenticação, CRUD completo e integração MySQL.
 
+## 👤 Informações do aluno
+
+- **Nome**: Gabriela Bonatelli Prates
+- **Curso**: Ciências da computação
+- **Universidade**: Universidade do Sul de Santa Catarina (UNISUL)
+- **Extensão**: Criação de aplicações com templates e banco de dados
+
 ## 🎨 Funções do sistema
 
 - Login fixo com os dados da loja
